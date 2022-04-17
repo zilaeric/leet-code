@@ -8,5 +8,6 @@
 | [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Python | 66 ms | 92.68 % |
 | [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | Python | 40 ms | 92.41 % |
 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | Python | 30 ms | 78.17 % |
+| [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | C++ | 0 ms | 100.00 % |
 | [1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Python | 141 ms | 90.70 % |
 
